@@ -7,5 +7,6 @@ The idea is to create a bot which helps teams improve their habits, together.
 #Setup
 - Clone this repository to your local machine
 - Copy .env.empty -> .env and put the proper token in the file
+- `npm install -g nodemon`
 - `npm install`
 - `npm start`
